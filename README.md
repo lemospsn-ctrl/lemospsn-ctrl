@@ -13,7 +13,7 @@ Data Scientist, Data Engineer, and AI Engineer building end-to-end data and AI p
 
 ### Forecast Lab — M5 + NHITS
 End-to-end retail demand forecasting mini-product using NHITS, FastAPI, Streamlit, Docker, and reproducible training pipelines.  
-Repo: [m5-forecast-mini-product](https://github.com/lemospsn-ctrl/m5-forecast-mini-product)
+Repo: [forecast-lab-m5-nhits](https://github.com/lemospsn-ctrl/m5-forecast-mini-product)
 
 ### BizPulse CRM Automation
 Modular customer automation platform for SMBs with reminders, campaign workflows, retention insights, and business dashboards.  
